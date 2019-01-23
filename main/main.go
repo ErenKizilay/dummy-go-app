@@ -1,8 +1,8 @@
 package main
 
 import (
-	"dummy-app/util"
 	"fmt"
+	"github.com/ErenKizilay/dummy-go-app/util"
 	"os"
 )
 
